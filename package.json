@@ -1,6 +1,6 @@
 {
   "name": "gouv-medic-api",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "gouv-medic-api",
   "main": "index.js",
   "scripts": {
